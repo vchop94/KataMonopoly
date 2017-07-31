@@ -1,0 +1,2 @@
+# KataMonopoly
+Progetto kata monopoly
